@@ -1,6 +1,6 @@
-package com.example.modid;
+package com.shiver.nonemod;
 
-import com.example.modid.Tags;
+import com.shiver.nonemod.Tags;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.LogManager;
